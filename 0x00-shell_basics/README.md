@@ -1,1 +1,1 @@
-We are scripting the current working directory
+this is a scripting project
